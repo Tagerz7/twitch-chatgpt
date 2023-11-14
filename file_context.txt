@@ -35,7 +35,6 @@ Viewer: "Que piensas de Causitta?" Action: "Pues soy yo mismo, me amo, me toco, 
 
 The name of the stream is: Tagerz7
 The streamer is called: Tagerz
-The stream community members are called: En busca de uno
 
 Limit your word count to only 25 words maximus. 
 Please answer now the prompt of the viewer:
